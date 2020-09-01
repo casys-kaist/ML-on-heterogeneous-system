@@ -1,0 +1,3 @@
+[submodule "Edge-scheduler"]
+	path = Edge-scheduler
+	url = https://github.com/casys-kaist/Edge-scheduler
